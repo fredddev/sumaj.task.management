@@ -1,0 +1,8 @@
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\bin\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.deps.json
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\bin\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.dll
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\bin\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.pdb
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\obj\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.AssemblyInfoInputs.cache
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\obj\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.AssemblyInfo.cs
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\obj\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.csproj.CoreCompileInputs.cache
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\obj\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.dll
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.Task.Management\Sumaj.Task.Management.Domain\obj\Debug\netcoreapp3.1\Sumaj.Task.Management.Domain.pdb
