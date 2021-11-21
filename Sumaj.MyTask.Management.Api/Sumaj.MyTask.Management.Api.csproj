@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Sumaj.MyTask.Management.Api</AssemblyName>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+    <RootNamespace>Sumaj.MyTask.Management.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sumaj.MyTask.Management.Application\Sumaj.MyTask.Management.Application.csproj" />
+    <ProjectReference Include="..\Sumaj.MyTask.Management.Persistence\Sumaj.MyTask.Management.Persistence.csproj" />    
+  </ItemGroup>
+
+</Project>

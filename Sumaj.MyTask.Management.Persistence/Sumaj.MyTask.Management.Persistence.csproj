@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Sumaj.MyTask.Management.Persistence</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sumaj.MyTask.Management.Application\Sumaj.MyTask.Management.Application.csproj" />
+    <ProjectReference Include="..\Sumaj.MyTask.Management.Domain\Sumaj.MyTask.Management.Domain.csproj" />
+    
+    
+  </ItemGroup>
+
+</Project>

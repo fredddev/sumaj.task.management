@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.MyTask.Management.Api\\Sumaj.Task.Management.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj",
+        "projectName": "Sumaj.TaskManagement.Application",
+        "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj",
+        "packagesPath": "C:\\Users\\fredd\\.nuget\\packages\\",
+        "outputPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fredd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Domain\\Sumaj.Task.Management.Domain.csproj": {
+                "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Domain\\Sumaj.Task.Management.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Domain\\Sumaj.Task.Management.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Domain\\Sumaj.Task.Management.Domain.csproj",
+        "projectName": "Sumaj.TaskManagement.Domain",
+        "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Domain\\Sumaj.Task.Management.Domain.csproj",
+        "packagesPath": "C:\\Users\\fredd\\.nuget\\packages\\",
+        "outputPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fredd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Persistence\\Sumaj.Task.Management.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Persistence\\Sumaj.Task.Management.Persistence.csproj",
+        "projectName": "Sumaj.TaskManagement.Persistence",
+        "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Persistence\\Sumaj.Task.Management.Persistence.csproj",
+        "packagesPath": "C:\\Users\\fredd\\.nuget\\packages\\",
+        "outputPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fredd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj": {
+                "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.MyTask.Management.Api\\Sumaj.Task.Management.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.MyTask.Management.Api\\Sumaj.Task.Management.Api.csproj",
+        "projectName": "Sumaj.MyTask.Management.Api",
+        "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.MyTask.Management.Api\\Sumaj.Task.Management.Api.csproj",
+        "packagesPath": "C:\\Users\\fredd\\.nuget\\packages\\",
+        "outputPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.MyTask.Management.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fredd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj": {
+                "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Application\\Sumaj.Task.Management.Application.csproj"
+              },
+              "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Persistence\\Sumaj.Task.Management.Persistence.csproj": {
+                "projectPath": "C:\\MIS_PROYECTOS\\Proyect Csharp NetCore\\PROYECTO_ASSURESOFT_TASK\\SumajTaskManagement\\Sumaj.TaskManagement\\Sumaj.Task.Management.Persistence\\Sumaj.Task.Management.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

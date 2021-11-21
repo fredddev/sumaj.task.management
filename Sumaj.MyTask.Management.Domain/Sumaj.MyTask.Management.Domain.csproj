@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Sumaj.MyTask.Management.Domain</AssemblyName>
+    <RootNamespace>Sumaj.MyTask.Management.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
