@@ -6,6 +6,7 @@ using Sumaj.MyTask.Management.Application.Features.Users.Queries.GetUsersList;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace Sumaj.MyTask.Management.Api.Controllers
@@ -34,8 +35,23 @@ namespace Sumaj.MyTask.Management.Api.Controllers
         public async Task<ActionResult<int>> Create([FromBody] CreateUserCommand createCategoryCommand)
         {
             var response = await _mediator.Send(createCategoryCommand);
-            return Ok(response);
+
+            //if (response.Success)
+            //{
+
+                return Ok(response);
+            //}
+            //else
+            //{
+                
+            //    return BadRequest(response);
+            //}
+
+
         }
+
+
+        
 
     }
 }

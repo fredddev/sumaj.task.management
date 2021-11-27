@@ -26,5 +26,11 @@ namespace Sumaj.MyTask.Management.Persistence.Repositories
             //aca implementar validacion para ver si hay un usuario que tenga el mismo nombre
             //throw new NotImplementedException();
         }
+
+        public Task<bool> IsUserNameUnique(string name, int userId)
+        {
+            var user = !(_dbContext.Users.Any(e => e.Name.Equals(name) && e.Id != userId));
+            return Task.FromResult(user);
+        }
     }
 }

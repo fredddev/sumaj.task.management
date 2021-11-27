@@ -9,5 +9,6 @@ namespace Sumaj.MyTask.Management.Application.Contracts.Persistence
     public interface IUserRepository: IAsyncRepository<User>
     {
         Task<bool> IsUserNameUnique(string name);
+        Task<bool> IsUserNameUnique(string name,int userId);
     }
 }

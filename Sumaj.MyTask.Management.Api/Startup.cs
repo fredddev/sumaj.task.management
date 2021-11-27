@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Sumaj.MyTask.Management.Api.Middleware;
 using Sumaj.MyTask.Management.Application;
 using Sumaj.MyTask.Management.Persistence;
 using System;
@@ -50,7 +51,7 @@ namespace Sumaj.MyTask.Management.Api
             app.UseRouting();
             app.UseAuthentication();
 
-            
+            app.UseCustomExceptionHandler();
 
             app.UseCors("Open");
 

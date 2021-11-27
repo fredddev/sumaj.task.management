@@ -18,5 +18,6 @@ namespace Sumaj.MyTask.Management.Application.Exceptions
                 ValdationErrors.Add(validationError.ErrorMessage);
             }
         }
+        
     }
 }
