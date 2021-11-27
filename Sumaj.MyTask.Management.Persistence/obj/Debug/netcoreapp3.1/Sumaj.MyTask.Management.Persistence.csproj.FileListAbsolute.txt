@@ -1,0 +1,14 @@
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTask.Management.Persistence.csproj.AssemblyReference.cache
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTask.Management.Persistence.AssemblyInfoInputs.cache
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTask.Management.Persistence.AssemblyInfo.cs
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTask.Management.Persistence.csproj.CoreCompileInputs.cache
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Persistence.deps.json
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Persistence.dll
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Persistence.pdb
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Application.dll
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Domain.dll
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Application.pdb
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\bin\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Domain.pdb
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTask.Management.Persistence.csproj.CopyComplete
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Persistence.dll
+C:\MIS_PROYECTOS\Proyect Csharp NetCore\PROYECTO_ASSURESOFT_TASK\SumajTaskManagement\Sumaj.TaskManagement\Sumaj.Task.Management.Persistence\obj\Debug\netcoreapp3.1\Sumaj.MyTaskManagement.Persistence.pdb
